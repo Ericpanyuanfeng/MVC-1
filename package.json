@@ -2,6 +2,8 @@
   "name": "MVC-1",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:Ericpanyuanfeng/MVC-1.git",
+  "author": "pan <1243378059@qq.com>",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.5.1"
